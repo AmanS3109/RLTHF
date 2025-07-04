@@ -1,0 +1,10 @@
+# .gitignore
+
+# Virtual environment
+.venv/
+rl_env/
+env/
+__pycache__/
+.ipynb_checkpoints/
+checkpoints/
+*.pt
