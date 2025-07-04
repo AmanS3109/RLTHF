@@ -1,4 +1,4 @@
-# 🧠 RLHF Reward Model — Assignment Submission
+# 🧠 RLHF Reward Model
 
 This project implements a reward model trained using Reinforcement Learning from Human Feedback (RLHF). It learns to rank LLM outputs based on human preferences using pairwise comparison data.
 
